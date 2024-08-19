@@ -1,5 +1,7 @@
 # StiryMAds portfolio
 
+As a company with less than a year in operation, StiryMAds have a few projects to its name, but below are a few that our team has been working on.
+
 # The Law Faculty Magazine at NUL
 
 ![Uploading nul.jpg…](https://github.com/MnguniMj/portfolio/blob/6693bf931b2366740e9ba79542849d19e3af8c06/nul.jpg)
