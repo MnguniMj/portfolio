@@ -14,15 +14,18 @@ Live Demo: https://www.foltest.kangfong.com/
 
 ![Uploading nul.jpg…](https://github.com/MnguniMj/SoilTest/blob/c9f6cab8fdcbc76c58ddbc3cd9bcc4762e8e1887/app.jpg)
 
-The Civil Engineering Lab System is a comprehensive desktop software designed to streamline laboratory tests in civil engineering. With a user-friendly interface, it allows users to input experiment readings and receive real-time calculations of test results. The system stores all data in a database, enabling easy access and review of past results. Additionally, it offers customizable, detailed reports that can be printed for further analysis and documentation. This software is an essential tool for enhancing efficiency and accuracy in civil engineering labs.
+The Civil Engineering Lab System is a comprehensive desktop software designed to streamline laboratory tests in civil engineering. Its intuitive interface enables users to enter experiment readings and obtain instantaneous test result computations. All of the data is kept in a database by the system, making it simple to obtain and examine previous outcomes. It also provides comprehensive reports that are fully customisable and printable for additional analysis and record-keeping. In civil engineering labs, this software is a vital tool for increasing accuracy and efficiency.
 
 Repository: https://github.com/MnguniMj/SoilTest
 
-## Civil Engineering Lab System Use-Case
+### Civil Engineering Lab System Use-Case
 
 This is to provide a clear picture of how this app works
 
 ![Uploading nul.jpg…](https://github.com/MnguniMj/SoilTest/blob/c9f6cab8fdcbc76c58ddbc3cd9bcc4762e8e1887/UseCase.jpg)
+
+# Ecommerce
+
 
 
 
