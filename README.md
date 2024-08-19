@@ -26,6 +26,9 @@ This is to provide a clear picture of how this app works
 
 # Ecommerce
 
+The sole goal of this project was to improve our Django and React skills through teaching. We were able to learn more about full-stack development as a team and practise integrating a strong backend with a dynamic frontend.
+
+Repository:
 
 
 
