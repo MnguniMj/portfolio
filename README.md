@@ -1,4 +1,4 @@
-# portfolio
+# StiryMAds portfolio
 
 # The Law Faculty Magazine at NUL
 
